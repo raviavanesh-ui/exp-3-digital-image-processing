@@ -149,17 +149,9 @@ equalized histogram
 
 original color img
 <img width="552" height="191" alt="download" src="https://github.com/user-attachments/assets/e603f160-171b-4231-b5de-cadf7cc24653" />
-<img width="552" height="191" alt="download" src="https://github.com/user-attachments/assets/bbff2ffc-1396-4b25-967b-8bff25631472" />
 
 orgial color img
 <img width="1013" height="778" alt="download" src="https://github.com/user-attachments/assets/5e7e4ece-e2f8-4d80-b510-aa0c99e7312a" />
-<img width="1013" height="778" alt="download" src="https://github.com/user-attachments/assets/8e292133-7d2a-4ae8-aa04-7c9ac14f567a" />
-
-orginal histogram
-<img width="1013" height="778" alt="download" src="https://github.com/user-attachments/assets/c3aeebfc-7601-45da-a8d7-6421d3216ceb" />
-
-histogram equalized
-<img width="1013" height="778" alt="download" src="https://github.com/user-attachments/assets/f72c159e-272f-4a3f-96e2-de94b13f2a3d" />
 
 
 ## Result
